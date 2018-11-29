@@ -1,0 +1,44 @@
+{
+  "user" :
+  [
+    {
+      "login" : "pro100rabo4iy",
+      "password" : "SlozniyParol",
+      "phone" : "89046331347",
+      "e-mail" : "pro100rabo4iy@port.ru",
+      "name" : "Mihail",
+      "surname" : "Zubenko",
+      "gender" : "Male",
+      "birth_date" : "13.10.1980",
+      "permission" : "0"
+
+    },
+
+    {
+      "login" : "Strange",
+      "password" : "example",
+      "phone" : "89608522504",
+      "e-mail" : "Strange@port.ru",
+      "name" : "NaN",
+      "surname" : "Glitch",
+      "gender" : "Male",
+      "birth_date" : "13.13.13",
+      "permission" : "1"
+
+    },
+
+    {
+      "login" : "Secure",
+      "password" : "QWed1sad2Jh32cuaiy713",
+      "phone" : "89033782972",
+      "e-mail" : "------@port.ru",
+      "name" : "Maybe",
+      "surname" : "Not",
+      "gender" : "Female",
+      "birth_date" : "11.10.2018",
+      "permission" : "2"
+
+    }
+
+  ]
+}
